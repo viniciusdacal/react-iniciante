@@ -1,0 +1,40 @@
+{
+  "promotions": [
+    {
+      "id": 1,
+      "title": "Kit Notebook Acer Aspire 3 + Mochila Green, A315-41-R790, AMD Ryzen 3 2200U Dual Core",
+      "price": 1799,
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
+    },
+    {
+      "id": 2,
+      "title": "Faqueiro Tramontina Laguna Inox - 100 Peças",
+      "price": 246.05,
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/0324bf9ad81ccbc5a8e22a1a41015649.png"
+    },
+    {
+      "id": 3,
+      "title": "Tênis West Coast Marrom",
+      "price": 119.99,
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/fe0a1e4ddcbd8f9a99a05908b6d29ea2.png"
+    },
+    {
+      "id": 4,
+      "title": "Fone de Ouvido Jaybird Run XT Sport Bluetooth, Cinza",
+      "price": 699.90,
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/9c4b176eb52bb4877e853cf36393d8fc.jpg"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "comment": "TELA HD",
+      "promotionId": 1
+    },
+    {
+      "id": 2,
+      "comment": "de R$ 599,90 \n por R$246,05à vista \n (5% de desconto) \n ou R$ 259,00 em 5x de R$ 51,80 sem juros",
+      "promotionId": 2
+    }
+  ]
+}
