@@ -4,25 +4,36 @@
       "id": 1,
       "title": "Kit Notebook Acer Aspire 3 + Mochila Green, A315-41-R790, AMD Ryzen 3 2200U Dual Core",
       "price": 1799,
+      "url": "",
       "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/2631517face1861bc4f46ae154d387de.png"
     },
     {
       "id": 2,
       "title": "Faqueiro Tramontina Laguna Inox - 100 Peças",
       "price": 246.05,
+      "url": "",
       "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/0324bf9ad81ccbc5a8e22a1a41015649.png"
     },
     {
       "id": 3,
       "title": "Tênis West Coast Marrom",
       "price": 119.99,
+      "url": "",
       "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem/fe0a1e4ddcbd8f9a99a05908b6d29ea2.png"
     },
     {
       "id": 4,
       "title": "Fone de Ouvido Jaybird Run XT Sport Bluetooth, Cinza",
-      "price": 699.90,
+      "price": 699.9,
+      "url": "",
       "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/9c4b176eb52bb4877e853cf36393d8fc.jpg"
+    },
+    {
+      "title": "SS Pets AM244 Almofada Pet 45x45cm Gato 1 para Cães",
+      "url": "https://amzn.to/2SQim8Y",
+      "imageUrl": "https://cdn.gatry.com/gatry-static/promocao/imagem_url/90f453a4f161839db7d1d5da3182fd52.jpg",
+      "price": "24",
+      "id": 5
     }
   ],
   "comments": [
