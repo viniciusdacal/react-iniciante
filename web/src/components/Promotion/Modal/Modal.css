@@ -1,0 +1,9 @@
+.promotion-modal__comment-form {
+  margin-top: 40px;
+}
+
+.promotion-modal__comment-form textarea {
+  border-radius: 4px;
+  border: 1px solid #AAAAAA;
+  width: 100%;
+}
