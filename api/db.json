@@ -48,6 +48,66 @@
       "comment": "de R$ 599,90 \n por R$246,05à vista \n (5% de desconto) \n ou R$ 259,00 em 5x de R$ 51,80 sem juros",
       "promotionId": 2,
       "userId": 2
+    },
+    {
+      "userId": 1,
+      "promotionId": 1,
+      "comment": "Hey ho",
+      "id": 3
+    },
+    {
+      "userId": 1,
+      "promotionId": 1,
+      "comment": "Test",
+      "parentId": 3,
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "promotionId": 1,
+      "comment": "sub resposta",
+      "parentId": 4,
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "promotionId": 1,
+      "comment": "resposta tela hd",
+      "parentId": 1,
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "resposta",
+      "parentId": 2,
+      "id": 7
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "nova resposta",
+      "parentId": 2,
+      "id": 8
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "test",
+      "parentId": 7,
+      "id": 9
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "test",
+      "id": 10
+    },
+    {
+      "userId": 1,
+      "promotionId": 2,
+      "comment": "test",
+      "id": 11
     }
   ],
   "users": [
