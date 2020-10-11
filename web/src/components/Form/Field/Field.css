@@ -1,0 +1,23 @@
+.form-field__label {
+  margin-bottom: 5px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #555555;
+}
+
+.form-field__input {
+  border: 1px solid #aaaaaa;
+  border-radius: 8px;
+  background-color: #fff;
+  height: 36px;
+  padding: 0 10px;
+}
+
+.form-field__input--has-error {
+  border-color: #c0392b;
+}
+
+.form-field__error-message {
+  color: #c0392b;
+  font-size: 14px;
+}
