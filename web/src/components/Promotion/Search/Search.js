@@ -11,7 +11,7 @@ const baseParams = {
   _embed: 'comments',
   _order: 'desc',
   _sort: 'id',
-  _limit: 2,
+  _limit: 5,
 };
 
 const PromotionSearch = () => {
@@ -76,6 +76,11 @@ const PromotionSearch = () => {
         promotions={loadInfo.data}
         loading={loadInfo.loading}
         error={loadInfo.error}
+        refetch={() => {
+          load({
+            params: baseParams,
+          });
+        }}
       />
       {loadInfo.data &&
         !loadInfo.loading &&
